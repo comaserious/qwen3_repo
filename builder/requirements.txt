@@ -9,7 +9,7 @@ pydantic
 pydantic-settings
 hf-transfer
 transformers>=4.48.0
+vllm>=0.7.0
 bitsandbytes>=0.45.0
 kernels
 torch>=2.4.0
-vllm>=0.7.0
